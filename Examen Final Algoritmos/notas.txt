@@ -1,0 +1,4 @@
+Nombre del estudiante: Diego Alexander Contreras Duarte
+Notas: 45.0, 64.0, 27.0, 87.0
+Promedio: 55.75
+
